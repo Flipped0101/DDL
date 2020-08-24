@@ -1,2 +1,2 @@
-# DDL
-Code for Discriminability Distillation in Group Representation Learning (eccv2020)
+# Discriminability Distillation in Group Representation Learning (eccv2020)
+Comming soon.
