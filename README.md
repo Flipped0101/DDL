@@ -1,2 +1,2 @@
-# Discriminability Distillation in Group Representation Learning (eccv2020)
+# Discriminability Distillation in Group Representation Learning (ECCV2020)
 Comming soon.
